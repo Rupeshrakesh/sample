@@ -28,7 +28,7 @@
       border-radius: 5px;
       cursor: pointer;
       background-color: #007BFF;
-      color: white;
+      color: Green;
       transition: transform 0.2s ease;
     }
 
